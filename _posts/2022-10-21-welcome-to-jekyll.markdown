@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hi, my name is Shimona"
 date:   2022-10-21 16:25:46 -0700
 categories: jekyll update
 ---
